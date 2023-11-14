@@ -9115,6 +9115,105 @@
                 "TD-U-Db",
                 "TD-U-IoT"
             ]
+        },
+        {
+            "id": 369,
+            "bes_tracking_id": 369,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/369",
+            "name": "kibana",
+            "full_name": "Be-Secure/kibana",
+            "description": "Your window into the Elastic Stack",
+            "bes_technology_stack": "DO",
+            "watchers_count": 0,
+            "forks_count": 1,
+            "stargazers_count": 0,
+            "size": 5682968,
+            "open_issues": 0,
+            "created_at": "2023-04-11T06:03:42Z",
+            "updated_at": "2023-10-30T05:50:06Z",
+            "pushed_at": "2023-11-08T07:10:03Z",
+            "git_url": "git://github.com/Be-Secure/kibana.git",
+            "clone_url": "https://github.com/Be-Secure/kibana.git",
+            "html_url": "https://github.com/Be-Secure/kibana",
+            "homepage": "https://www.elastic.co/products/kibana",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/elastic/kibana",
+                "main_bes_url": "https://github.com/Be-Secure/kibana",
+                "all_projects": [
+                    {
+                        "id": 7833168,
+                        "name": "elastic/kibana",
+                        "url": "https://github.com/elastic/kibana"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 626266626,
+                        "name": "Be-Secure/kibana",
+                        "url": "https://github.com/Be-Secure/kibana"
+                    }
+                ]
+            },
+            "license": {
+                "key": "other",
+                "name": "Other",
+                "spdx_id": "NOASSERTION",
+                "url": null,
+                "node_id": "MDc6TGljZW5zZTA="
+            },
+            "language": {
+                "TypeScript": 191003470,
+                "JavaScript": 8599422,
+                "MDX": 2072601,
+                "SCSS": 365839,
+                "Shell": 365577,
+                "CSS": 268383,
+                "Groovy": 97760,
+                "ANTLR": 32956,
+                "Starlark": 24818,
+                "HTML": 19095,
+                "EJS": 15440,
+                "Dockerfile": 13891,
+                "Perl": 12265,
+                "Handlebars": 10530,
+                "Python": 7487,
+                "Batchfile": 5113,
+                "Mustache": 4915,
+                "Standard ML": 3033,
+                "Makefile": 1404
+            },
+            "tags": [
+                "COM - C",
+                "DO",
+                "IND-BFSI",
+                "IND-TEL",
+                "IND-ED",
+                "IND-RT",
+                "IND-HLS",
+                "TD-C-D",
+                "TD-U-DAA",
+                "Tracked"
+            ]
         }
     ]
 }
