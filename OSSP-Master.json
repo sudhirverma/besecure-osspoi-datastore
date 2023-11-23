@@ -233,16 +233,16 @@
                 "node_id": "MDc6TGljZW5zZTEz"
             },
             "language": {
-               "Python": 9794733,
-               "Jupyter Notebook": 5653984,
-               "MDX": 56781,
-               "Makefile": 9140,
-               "XSLT": 6033,
-               "Shell": 5371,
-               "HTML": 5266,
-               "Dockerfile": 3723,
-               "Tex": 2242,
-               "Javascript": 157
+                "Python": 9794733,
+                "Jupyter Notebook": 5653984,
+                "MDX": 56781,
+                "Makefile": 9140,
+                "XSLT": 6033,
+                "Shell": 5371,
+                "HTML": 5266,
+                "Dockerfile": 3723,
+                "Tex": 2242,
+                "Javascript": 157
             },
             "tags": [
                 "COM - C",
@@ -317,17 +317,17 @@
                 "node_id": "MDc6TGljZW5zZTEz"
             },
             "language": {
-               "Ruby": 4789525,
-               "Go": 1118680,
-               "PowerShell": 58001,
-               "HTML": 17719,
-               "Shell": 14931,
-               "Makefile": 5597,
-               "Nix": 5406,
-               "Dockerfile": 1125,
-               "C": 960,
-               "Emacs Lisp": 420,
-               "Vim Script": 309
+                "Ruby": 4789525,
+                "Go": 1118680,
+                "PowerShell": 58001,
+                "HTML": 17719,
+                "Shell": 14931,
+                "Makefile": 5597,
+                "Nix": 5406,
+                "Dockerfile": 1125,
+                "C": 960,
+                "Emacs Lisp": 420,
+                "Vim Script": 309
             },
             "tags": [
                 "COM - C",
@@ -9788,8 +9788,7 @@
                 "TD-U-AI/ML",
                 "Tracked"
             ]
-        }
-        ,
+        },
         {
             "id": 259,
             "bes_tracking_id": 259,
@@ -9870,8 +9869,7 @@
                 "S",
                 "SD-BS"
             ]
-        }
-        ,
+        },
         {
             "id": 103,
             "bes_tracking_id": 103,
@@ -9883,7 +9881,7 @@
             "watchers_count": 0,
             "forks_count": 1,
             "stargazers_count": 0,
-            "size":  207425,
+            "size": 207425,
             "open_issues": 0,
             "created_at": "2023-03-29T06:06:20Z",
             "updated_at": "2023-10-03T13:08:29Z",
@@ -9957,10 +9955,8 @@
                 "COM - C",
                 "DA",
                 "IND-ALL"
-               
             ]
-        }
-        ,
+        },
         {
             "id": 257,
             "bes_tracking_id": 257,
@@ -10039,10 +10035,9 @@
                 "COM - C",
                 "IND-CyS",
                 "SD-BS",
-                "S"   
+                "S"
             ]
-        }
-        ,
+        },
         {
             "id": 447,
             "bes_tracking_id": 447,
@@ -10117,10 +10112,9 @@
                 "COM - C",
                 "IND-CyS",
                 "SD-SOC",
-                "S"   
+                "S"
             ]
-        }
-        ,
+        },
         {
             "id": 296,
             "bes_tracking_id": 296,
@@ -10299,7 +10293,6 @@
                 "DO",
                 "SD-SOC",
                 "TD-U-DAA"
-                
             ]
         },
         {
@@ -10383,10 +10376,8 @@
                 "COM - C",
                 "DO",
                 "IND-ALL"
-                
             ]
-        }
-        ,
+        },
         {
             "id": 130,
             "bes_tracking_id": 130,
@@ -10468,8 +10459,7 @@
                 "IND-ALL",
                 "TD-U-W"
             ]
-        }
-        ,
+        },
         {
             "id": 135,
             "bes_tracking_id": 135,
@@ -10557,8 +10547,7 @@
                 "IND-ALL",
                 "IND-CyS"
             ]
-        }
-        ,
+        },
         {
             "id": 215,
             "bes_tracking_id": 215,
@@ -10640,8 +10629,7 @@
                 "TD-C-D",
                 "TD-U-Db"
             ]
-        }
-        ,
+        },
         {
             "id": 456,
             "bes_tracking_id": 456,
@@ -10724,8 +10712,7 @@
                 "IND-ALL",
                 "TD-U-Db"
             ]
-        }
-        ,
+        },
         {
             "id": 214,
             "bes_tracking_id": 214,
@@ -10804,8 +10791,7 @@
                 "A",
                 "IND-ALL"
             ]
-        }
-        ,
+        },
         {
             "id": 295,
             "bes_tracking_id": 295,
@@ -12194,6 +12180,85 @@
                 "IND-ALL",
                 "TD-C-D",
                 "TD-U-Db"
+            ]
+        },
+        {
+            "id": 473,
+            "bes_tracking_id": 473,
+            "issue_url": "https://github.com/Be-Secure/Be-Secure/issues/473",
+            "name": "DecodingTrust",
+            "full_name": "Be-Secure/DecodingTrust",
+            "description": "A Comprehensive Assessment of Trustworthiness in GPT Models",
+            "bes_technology_stack": "S",
+            "watchers_count": 0,
+            "forks_count": 0,
+            "stargazers_count": 0,
+            "size": 340886,
+            "open_issues": 0,
+            "created_at": "2023-11-23T06:09:01Z",
+            "updated_at": "2023-11-23T06:09:01Z",
+            "pushed_at": "2023-11-23T08:37:31Z",
+            "git_url": "git://github.com/Be-Secure/DecodingTrust.git",
+            "clone_url": "https://github.com/Be-Secure/DecodingTrust.git",
+            "html_url": "https://github.com/Be-Secure/DecodingTrust",
+            "homepage": "https://decodingtrust.github.io/",
+            "owner": {
+                "login": "Be-Secure",
+                "id": 44028837,
+                "node_id": "MDEyOk9yZ2FuaXphdGlvbjQ0MDI4ODM3",
+                "avatar_url": "https://avatars.githubusercontent.com/u/44028837?v=4",
+                "gravatar_id": "",
+                "url": "https://api.github.com/users/Be-Secure",
+                "html_url": "https://github.com/Be-Secure",
+                "followers_url": "https://api.github.com/users/Be-Secure/followers",
+                "following_url": "https://api.github.com/users/Be-Secure/following{/other_user}",
+                "gists_url": "https://api.github.com/users/Be-Secure/gists{/gist_id}",
+                "starred_url": "https://api.github.com/users/Be-Secure/starred{/owner}{/repo}",
+                "subscriptions_url": "https://api.github.com/users/Be-Secure/subscriptions",
+                "organizations_url": "https://api.github.com/users/Be-Secure/orgs",
+                "repos_url": "https://api.github.com/users/Be-Secure/repos",
+                "events_url": "https://api.github.com/users/Be-Secure/events{/privacy}",
+                "received_events_url": "https://api.github.com/users/Be-Secure/received_events",
+                "type": "Organization",
+                "site_admin": false
+            },
+            "project_repos": {
+                "main_github_url": "https://github.com/AI-secure/DecodingTrust",
+                "main_bes_url": "https://github.com/Be-Secure/DecodingTrust",
+                "all_projects": [
+                    {
+                        "id": 650364171,
+                        "name": "AI-secure/DecodingTrust",
+                        "url": "https://github.com/AI-secure/DecodingTrust"
+                    }
+                ],
+                "all_bes_repos": [
+                    {
+                        "id": 722430614,
+                        "name": "Be-Secure/DecodingTrust",
+                        "url": "https://github.com/Be-Secure/DecodingTrust"
+                    }
+                ]
+            },
+            "license": {
+                "key": "cc-by-sa-4.0",
+                "name": "Creative Commons Attribution Share Alike 4.0 International",
+                "spdx_id": "CC-BY-SA-4.0",
+                "url": "https://api.github.com/licenses/cc-by-sa-4.0",
+                "node_id": "MDc6TGljZW5zZTI2"
+            },
+            "language": {
+                "Python": 386593,
+                "Shell": 4736,
+                "Dockerfile": 341
+            },
+            "tags": [
+                "COM - C",
+                "IND-ALL",
+                "SD-AS",
+                "S",
+                "TD-U-AI/ML",
+                "Tracked"
             ]
         }
     ]
